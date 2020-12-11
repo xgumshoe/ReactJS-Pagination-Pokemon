@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ReactJS-Pagination-Pokemon/static/js/main.f5f157b0.chunk.js",
+    "main.js.map": "/ReactJS-Pagination-Pokemon/static/js/main.f5f157b0.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Pagination-Pokemon/static/js/runtime-main.54c73989.js",
+    "runtime-main.js.map": "/ReactJS-Pagination-Pokemon/static/js/runtime-main.54c73989.js.map",
+    "static/js/2.be28b2ee.chunk.js": "/ReactJS-Pagination-Pokemon/static/js/2.be28b2ee.chunk.js",
+    "static/js/2.be28b2ee.chunk.js.map": "/ReactJS-Pagination-Pokemon/static/js/2.be28b2ee.chunk.js.map",
+    "index.html": "/ReactJS-Pagination-Pokemon/index.html",
+    "static/js/2.be28b2ee.chunk.js.LICENSE.txt": "/ReactJS-Pagination-Pokemon/static/js/2.be28b2ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c73989.js",
+    "static/js/2.be28b2ee.chunk.js",
+    "static/js/main.f5f157b0.chunk.js"
+  ]
+}
